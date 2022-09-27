@@ -1,1 +1,1 @@
-The R-script I made
+The R-script I coded
